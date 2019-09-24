@@ -2,7 +2,8 @@
 title: Prova
 subtitle: dfjfhjwhfkvdnvdnsdvksdnsldvn fldsòfsòfjsòdfjs
 content_img:
-  enabled: false
+  enabled: true
+  path: /images/pic04.jpg
   url: '#'
 sidebar:
   enabled: false
