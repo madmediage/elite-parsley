@@ -7,7 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: Raggiungere il proprio OBIETTIVO nella vita!
   title: Oltre il pensiero
 sections:
   - component: features.html
